@@ -1,0 +1,6 @@
+1. 建立一个新的仓库在github上面的xiaoyi-study/gitwork
+2. 分别提交1，2 个commit
+3. master在第2次提交完成的时候 建立分支 ref1, master第3次建立ref2
+4. 在master提交第五次的时候，合并ref1和ref2，提交message为1234567890
+5. master 第六次写一个div标签，标签里面有span标签，span里面有hello world！
+6. 手动演示解决冲突和版本回退
